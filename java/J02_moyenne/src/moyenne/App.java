@@ -48,7 +48,7 @@ public class App {
 		System.out.println("Vous avez saisi: " + nombre2);
 		
 		
-		moyenne = (nombre1 + nombre2) / 2f;
+		moyenne = (nombre1 + nombre2) / 2d;
 		
 		System.out.println(moyenne);
 		
